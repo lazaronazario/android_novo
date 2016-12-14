@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Recife Guide</string>
+    <!--<string name="appFacebook_id">172490979824465</string> ID DANNYLLO-->
+    <string name="appFacebook_id">536197723244127</string> <!--ID RAFAEL-->
+    <string name="error_login">Erro no login</string>
+    <string name="cancel_login">Login Cancelado</string>
+    <string name="logout">Encerrar Sessão</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="categoria_local">Categoria Local</string>
+    <string name="lista_roteiros">Lista de Roteiros</string>
+    <!--<string name="nome_local_detalhe">%1$s</string>-->
+    <string name="criarRota">Busca locais</string>
+    <string name="rotaMaisProxima">Rota mais próxima</string>
+    <string name="opcoesDeRota"> </string>
+    <string name="carregarLocais">Não foi possivel carregar locais</string>
+    <string name="loadRota">Carregando</string>
+    <string name="loadRotaDois">Carregando Rota..</string>
+    <!--<string name="compras">Compras</string>-->
+    <string name="compras">Restaurantes</string>
+    <!--<string name="sem_categoria">Sem Categoria</string>-->
+    <string name="sem_categoria">Bares</string>
+    <string name="feira_livre">Feira Livre</string>
+    <string name="mercado_publico">Mercado Público</string>
+    <string name="museu">Museu</string>
+    <string name="pontes">Pontes</string>
+    <string name="teatro">Teatro</string>
+    <string name="tituloLocais">Lista de %1$s</string>
+    <string name="texto_do_compartilhar">Estou passando por: %1$s.\n
+    Aproveite e conheça esse e outros lugares, usando o Recife Guide. Já disponível no seu GooglePlay</string>
+    <string name="permissao_localizacao">O aplicativo precisa da permissão de localização para rodar corretamente.</string>
+    <string name="sem_conexao">Sem conexão</string>
+    <string name="drawer_home">Página Principal</string>
+    <string name="drawer_rotas">Rotas Turísticas</string>
+    <string name="drawer_meu_redor">Ao Meu Redor</string>
+    <string name="drawer_locais">Locais</string>
+    <string name="drawer_sair">Sair</string>
+
+    <string name="checkin_realizado">Você realizou check-in</string>
+    <string name="checkin_cancelado">Você cancelou seu check-in</string>
+
+    <string name="checkin_titulo_sharecontent">Recife Guide - Aplicativo de turismo</string>
+    <string name="checkin_descricao_sharecontent">Cadastre-se agora e um guia turístico!</string>
+    <string name="checkin_url_recife_guide">www.recifeguide.vai.la</string>
+
+    <string name="progress_titulo">Aguarde</string>
+    <string name="progress_descricao">Carregando Locais e Rotas..</string>
+
+    <string name="me">Eu</string>
+
+    <string name="check_gps">Verifique se o seu GPS está ligado</string>
+
+    <string name="checkinFacebook">Check-in</string>//Check-in //botão
+    <string name="action_settings">Settings</string>
+    <string name="ou">ou</string>
+
+</resources>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <LinearLayout
+            android:id="@+id/activity_local_detalhe"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:context="com.loremipsum.recifeguide.LocalDetalheActivity">
+
+            <android.support.design.widget.FloatingActionButton
+                android:id="@+id/fab"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom|end"
+                android:layout_margin="@dimen/fab_margin"
+                android:src="@android:drawable/ic_dialog_map" />
+
+            <ImageView
+                android:id="@+id/imagemLocal"
+                android:layout_width="match_parent"
+                android:layout_height="400dp"
+                />
+
+            <TextView
+                android:id="@+id/nomeLocal"
+                android:text="Nome local aqui"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="24sp"
+
+                />
+
+            <TextView
+                android:id="@+id/descricaoLocal"
+                android:text="Descrição local aqui"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                />
+
+            <TextView
+                android:text="Horário de Abertura:"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/textView12"
+                android:textAppearance="@style/TextAppearance.AppCompat" />
+
+            <TextView
+                android:text=""
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/horarioAbertura" />
+
+            <TextView
+                android:text="Horário de Fechamento:"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/textView14"
+                android:textAppearance="@style/TextAppearance.AppCompat" />
+
+            <TextView
+                android:text=""
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/horarioFechamento" />
+
+            <android.support.design.widget.FloatingActionButton
+                android:id="@+id/fab2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="top|end"
+                android:layout_margin="@dimen/fab_margin"
+                android:src="@android:drawable/ic_btn_speak_now" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+</RelativeLayout>

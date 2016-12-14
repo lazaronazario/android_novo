@@ -1,0 +1,75 @@
+{
+  "project_info": {
+    "project_number": "181690891695",
+    "firebase_url": "https://fir-recife-guide.firebaseio.com",
+    "project_id": "firebase-recife-guide",
+    "storage_bucket": "firebase-recife-guide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181690891695:android:875695bfd66f9557",
+        "android_client_info": {
+          "package_name": "com.loremipsum.recifeguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181690891695-551reru3dbkepg3om1juclvrffo3ogv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.loremipsum.recifeguide",
+            "certificate_hash": "2694CBAB37C47B4566AA1E0F0386EAC57BAB93C3"
+          }
+        },
+        {
+          "client_id": "181690891695-l7s46l2ofetr6vi1bgntsti2rqgb514g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.loremipsum.recifeguide",
+            "certificate_hash": "5AA770E3709F1B9BF42DF35CCE148F1CFE3B4BC4"
+          }
+        },
+        {
+          "client_id": "181690891695-25mqgs0eqn4tbo13s38tkijs3l9vkhu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.loremipsum.recifeguide",
+            "certificate_hash": "CB2CC03AB7EAA4BF7FBB21AA21D74C3654521188"
+          }
+        },
+        {
+          "client_id": "181690891695-7e9fjbmnjdist1a44f1e9gopc1t5dqet.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "181690891695-gej1lsk40675q11uv2lb7l3qvj6ahnfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClcdGqbvrypaWrBwIZjGdpPl91R4hAhnk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181690891695-7e9fjbmnjdist1a44f1e9gopc1t5dqet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
